@@ -79,6 +79,4 @@ These metrics evaluate how well the model predicts heart disease cases.
 
 ---
 
-## 📌 How to Run
 
-1. Clone the repository:
